@@ -20,28 +20,28 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Welcome to my Github</h2></summary>
+    <summary><h2 style="display: inline-block">Welcome to my Github!</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
 
-💻 I’m currently working with React, Node.js, Python, and cloud-native microservice architecture
+💻 I’m currently working with GoLang, Ts, Python, and cloud-native microservice architecture
 
 🚀 I’m currently learning more about scalable systems, distributed design, and efficient ML deployment
 
 🏢 I’ve interned at Synopsys, where I built microservices and SDK modules for cloud storage platforms
 
-🤖 My recent projects include a YOLO-powered ball tracking system and a GeoGuessr country predictor using CNNs
+🤖 My most recent project is LinguaCV, a Voice powered AI that builds resumes for non-english speakers, which placed top 5 at SteelHacks
 
 ☁️ I have strong interest in cloud computing, focusing on AWS and containerized backends
 
-💬 Ask me about React, Node.js, Docker, cloud infrastructure, or AI model integration
+💬 Ask me about Python, Node.js, Docker, cloud infrastructure, or AI model integration
 
 📫 Reach me at shashwat.avin@gmail.com
 
-🎮 Outside of code, I love building side projects that blend machine learning, physics, and real-time systems
+🎮 Outside of code, I love dancing, hiking, and making music!
 
 <!--Intro end-->
 
